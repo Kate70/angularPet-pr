@@ -11,7 +11,7 @@
     margin: 0 auto;
     font-weight: 800;
     font-size: 25px;
-    margin-top: 35px;
+    margin-top: 25px;
     background-image: url('./images.png'),linear-gradient(30deg, #dbdad9, #e7c99d);
     background-position: center;
     background-blend-mode: overlay;
