@@ -1,0 +1,25 @@
+.card{
+   margin: 16px auto;
+    
+}
+
+.currency{
+    color: rgb(71, 70, 70);
+    text-align: center;
+    width: 170px;
+    height: 30px;
+    margin: 0 auto;
+    font-weight: 800;
+    font-size: 25px;
+    margin-top: 35px;
+    background-image: url('./images.png'),linear-gradient(30deg, #dbdad9, #e7c99d);
+    background-position: center;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    
+}
+.title{
+    color: rgb(122, 122, 122);
+    font-size: 26px;
+    font-weight: 500;
+}
